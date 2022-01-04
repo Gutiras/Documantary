@@ -1,0 +1,54 @@
+body {
+  position: relative;
+  margin-left: 5%;
+  padding-left: 5%;
+  margin-right: 5%;
+  padding-right: 5%;
+  background-color: rgb(53, 52, 52);
+  color: white;
+}
+a{
+    text-decoration: none;
+    
+}
+button{
+    background-color: rgb(151, 148, 148);
+    padding: 0;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+.videoo {
+    width: 40%;    
+    
+}
+.title{
+    color: wheat;
+}
+.audioo{
+    width: 40%;
+    float: left;
+}
+img{
+    margin-left: 5%;
+}
+.stop{
+    float: none;
+    height: 10px;
+}
+.member{
+    
+    font-size: large;
+    color: rgb(233, 194, 67);
+    background-color: rgb(83, 81, 81);
+    text-align: center;
+}
+.viadio{
+    background-color: rgb(83, 81, 81);
+    height: 400px;
+  margin-bottom: 25px;
+}
+.scriptt{
+    background-color: rgb(83, 81, 81);
+    height: 550px;
+  
+}
